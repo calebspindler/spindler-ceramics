@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Spindler Ceramics
 tagline: Functional pottery for daily use.
-featuredImage: /assets/spindlers-homepage.jpeg
+featuredImage: /assets/spindlers-about.jpeg
 cta:
   ctaText: About us
   ctaLink: /about
