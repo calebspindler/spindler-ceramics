@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Spindler Ceramics
-tagline: Functional pottery for daily use.
+tagline: a place for learning about pottery
 featuredImage: /assets/spindlers-about.jpeg
 cta:
   ctaText: About Us
