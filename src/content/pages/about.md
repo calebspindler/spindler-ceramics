@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Spindler Ceramics
+title: About Us
 ---
 We are a couple of wannabe potters living in San Diego, CA. We created this site to document our journey, and to hopefully help others learn to 
 
