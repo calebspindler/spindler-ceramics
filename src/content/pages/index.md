@@ -8,4 +8,4 @@ cta:
   ctaText: About Us
   ctaLink: /about
 ---
-A couple of wannabe potters living in San Diego, CA. Follow along as we learn!
+A couple of wannabe potters living in San Diego, CA. Let's learn together!
