@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: About Us
 ---
-We are the Spindlers. We started dating when we were 16 (about the time of the picture below), got married when we were 21 and 22, and now that we are in our 30s with two kids, we are still having just as much fun as ever. We currently live in San Diego, CA, though we've lived in Missouri, Kentucky, and even taught English together in China for a bit.
+We are the Spindlers. We started dating when we were 16, got married when we were 21 and 22, and now that we are in our 30s with two kids, we are still having just as much fun as ever. We currently live in San Diego, CA, though we've lived in Missouri, Kentucky, and even taught English together in China for a bit.
 
 ![Caleb and Kayla Spindler](/assets/spindlers-about.jpeg)
 
